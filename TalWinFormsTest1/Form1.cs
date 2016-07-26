@@ -21,6 +21,7 @@ namespace TalWinFormsTest1
         {
             MessageBox.Show("git bucket test 1");
             MessageBox.Show("git bucket test 2");
+            MessageBox.Show("git bucket test 3");
         }
     }
 }
