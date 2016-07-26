@@ -19,7 +19,8 @@ namespace TalWinFormsTest1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("git bucket test");
+            MessageBox.Show("git bucket test 1");
+            MessageBox.Show("git bucket test 2");
         }
     }
 }
